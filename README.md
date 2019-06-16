@@ -1,4 +1,4 @@
-# WechatChatInterface
+# Wechat Chat Interface (Bootstrap Only)
 Pure Bootstrap 4.3.1 Wechat Chat Interface with function.
 
 # Javascript Commands
