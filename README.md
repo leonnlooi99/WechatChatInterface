@@ -1,5 +1,8 @@
-# Wechat Chat Interface (Bootstrap Only)
+# Wechat Chat Interface Mobile Responsive (Bootstrap 4.3.1)
 Pure Bootstrap 4.3.1 Wechat Chat Interface with function.
+
+Include feature 
+
 
 # Javascript Commands 
 
