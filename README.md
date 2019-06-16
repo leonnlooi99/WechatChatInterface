@@ -1,3 +1,6 @@
+
+<img src="https://cloud.githubusercontent.com/assets/4652816/15662614/178efd46-2725-11e6-8952-09d7836e968d.png" alt="https://weui.io" style="max-width:100%;">
+
 # Wechat Chat Interface (Bootstrap Only)
 Pure Bootstrap 4.3.1 Wechat Chat Interface with function.
 
